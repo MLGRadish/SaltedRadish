@@ -1,0 +1,10 @@
+# VS Code
+.vs
+.vscode
+.cache
+
+# CMake
+build
+
+# ImGui
+imgui.ini
